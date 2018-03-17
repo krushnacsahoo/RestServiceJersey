@@ -25,7 +25,7 @@ import com.sahoo.rest.service.StudentServiceApi;
 //@Component
 //public class StudentControlApiImpl implements StudentControlApi {
 @Path("/")
-public class StudentControlApiImpl  {
+public class StudentEndPointApi  {
 
 	@Inject
 	StudentServiceApi studentServiceApi;
