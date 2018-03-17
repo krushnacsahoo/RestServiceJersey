@@ -1,4 +1,4 @@
-package com.sahoo.rest.control;
+package com.sahoo.rest.endpoint;
 
 import java.security.Principal;
 
